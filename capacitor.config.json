@@ -1,0 +1,11 @@
+{
+  "appId": "com.player.app",
+  "appName": "Player",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": false }
+  }
+}
